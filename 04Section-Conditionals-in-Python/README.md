@@ -1,4 +1,4 @@
-## 🐍 Section – Python Mini Projects
+## 🐍 Section 04 – Python Mini Projects
 
 Welcome to this **Project Section** 🎉
 This section focuses on building **real-world Python mini projects** that help you understand how Python logic works in practical situations.
